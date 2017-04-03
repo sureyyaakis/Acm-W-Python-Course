@@ -1,3 +1,5 @@
+##Pg:96
+
 True and True
 False and True
 1 == 1 and 2 == 1
@@ -18,3 +20,16 @@ not ("testing" == "testing" and " Zed" == " Cool Guy")
 1 == 1 and not ("testing" == 1 or 1 == 0)
 "chunky" == "bacon" and not (3 == 4 or 3 == 3)
 3  == 3 and not ("testing == "testing" or "Python" == "Fun")
+
+
+##Pg:100
+people = 20
+cats = 30 
+dogs = 15
+
+
+  if people < cats:
+      print "Too many cats! The world is doomed!"
+  if people > cats:
+      print "Not many cats! The world is saved!"
+     
